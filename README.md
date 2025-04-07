@@ -10,7 +10,7 @@ This project analyzes and visualizes a dataset of data science-related job salar
 ###  Key Tools:
 - Python, Pandas, Matplotlib
 - CSV handling, Data Visualization
-- Simple ML modeling (optional section)
+- Simple ML modeling
 
 ###  Visuals:
 Includes scatter plots of salary trends over time and salary distribution by role or location.
